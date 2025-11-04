@@ -10,7 +10,7 @@ The agent connects **Google Sheets**, **Gemini API (via HTTP GET & POST)**, and 
 2. **HTTP GET Request:** Checks Gemini API models.  
 3. **HTTP POST Request:** Sends product details (name, short description, tone) to Gemini AI for text generation.  
 4. **Google Sheets – Update Row:** Writes the AI-generated text back into the “AI Description” column.
-
+   
 ## 📁 File Included
 - `social_media_agent_safe.json` — Make.com exported blueprint (API key removed for security).
 - ## 🎬 Demo Video
